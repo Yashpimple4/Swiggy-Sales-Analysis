@@ -1,0 +1,1 @@
+Analyzed 197,000+ Swiggy orders (₹5.3 crore in revenue) using Python (Pandas, NumPy, Plotly) to uncover monthly, daily, and quarterly sales trends across states and cities. Identified Veg vs. Non-Veg revenue split and top 5 revenue-generating cities.
